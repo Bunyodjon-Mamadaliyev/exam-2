@@ -12,6 +12,8 @@ ta'limiy maqsadlarda foydalanish uchun mo'ljallangan.
 # Loyiha muallifi
 Bunyodjon Mamadaliyev
 
+
+
 ## Talablar
 
 Loyihani ishlatish uchun quyidagi dasturiy ta'minot va kutubxonalar talab qilinadi:
