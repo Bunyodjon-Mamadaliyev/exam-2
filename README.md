@@ -4,7 +4,7 @@ Ushbu loyiha Python tilida yozilgan va obyektga yo'naltirilgan dasturlash (OOP) 
 Loyihaning maqsadi foydalanuvchilarga **imtihon savollarini yaratish, tahrirlash va boshqarish** 
 imkonini beruvchi dasturiy yechimni taqdim etishdir.
 
-### Foydalanish shartlari
+## Foydalanish shartlari
 Ushbu loyiha ochiq manba sifatida taqdim etilgan va 
 ta'limiy maqsadlarda foydalanish uchun mo'ljallangan.
 
