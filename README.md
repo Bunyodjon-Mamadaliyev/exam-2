@@ -8,11 +8,8 @@ imkonini beruvchi dasturiy yechimni taqdim etishdir.
 Ushbu loyiha ochiq manba sifatida taqdim etilgan va 
 ta'limiy maqsadlarda foydalanish uchun mo'ljallangan.
 
-
-# Loyiha muallifi 
-### Bunyodjon Mamadaliyev
-
-
+### Loyiha muallifi 
+Bunyodjon Mamadaliyev
 
 
 
