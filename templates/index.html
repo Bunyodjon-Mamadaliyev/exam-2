@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block title %} Astrum IT Academy H4ck3rs {% endblock %}
+{% block content %}
+    <main>
+{% for article in articles %}
+    <article class="post">
+        <h2>{{ article.title }}</h2>
+        <p>{{ article.short_content }}</p>
+        <a href="{{ article.get_detail_url }}" class="read-more">Read More</a>
+    </article>
+{% empty %}
+    <h2>No Found!</h2>
+{% endfor %}
+    </main>
+{% endblock %}
